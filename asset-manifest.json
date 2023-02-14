@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Digital-Business-Card/static/css/main.0c06653c.css",
+    "main.js": "/Digital-Business-Card/static/js/main.33f1e103.js",
+    "static/js/787.bc412fff.chunk.js": "/Digital-Business-Card/static/js/787.bc412fff.chunk.js",
+    "static/media/profile.png": "/Digital-Business-Card/static/media/profile.a7f9628676a8e5462c63.png",
+    "static/media/logo-twitter.png": "/Digital-Business-Card/static/media/logo-twitter.b413b75b86f226240110.png",
+    "static/media/insta-logo.png": "/Digital-Business-Card/static/media/insta-logo.046af6041ae1fffdc4a7.png",
+    "static/media/email-logo.png": "/Digital-Business-Card/static/media/email-logo.1b82ca4bb7584c98e9ea.png",
+    "static/media/logo-facebook.png": "/Digital-Business-Card/static/media/logo-facebook.3cb08c9d44e0707a25e4.png",
+    "index.html": "/Digital-Business-Card/index.html",
+    "main.0c06653c.css.map": "/Digital-Business-Card/static/css/main.0c06653c.css.map",
+    "main.33f1e103.js.map": "/Digital-Business-Card/static/js/main.33f1e103.js.map",
+    "787.bc412fff.chunk.js.map": "/Digital-Business-Card/static/js/787.bc412fff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c06653c.css",
+    "static/js/main.33f1e103.js"
+  ]
+}
